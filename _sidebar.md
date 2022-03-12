@@ -1,55 +1,11 @@
 - [首页](index.md)
-
-- **了解**
-    - [什么是 SoTap？](introduction.md)
-    - [关于 OFG](about-ofg.md)
-- **起步**
-    - [小白入服指南](getting-started/preparation.md)
-    - [游戏规则](/rules.md)
-    - [服务器列表](getting-started/server-network.md)
-    - [常用指令](getting-started/basic-commands.md)
-    - [常见问题](getting-started/faq.md)
-    - [关于桉树叶](getting-started/EusMC.md)
-- **社区**
-    - [介绍](forum/introduction.md)
-    - [论坛常见问题](forum/faq.md)
-    - [Markdown 教程](forum/markdown-tutorial.md)
-    - [玩家群组](forum/groups.md)
-- **Windfall**
-    - [新人指南](Windfall/beginners-guide.md)
-    - [最近加入内容](Windfall/whats-new.md)
-    - [经济体系](Windfall/economy.md)
-    - [薄荷币兑换奖励](Windfall/mint.md)
-    - [如何挣钱](Windfall/how-to-make-money.md)
-    - [城镇据点](Windfall/realms)
-    - [世界工程](Windfall/projects)
-    - [指令大全](Windfall/player-command.md)
-- **Skyblock 魔芋空岛**
-    - [空岛指南](Skyblock/introduction.md)
-    - [指令大全](Skyblock/player-command.md)
-- **附加内容**
-    - [赞助套餐](/extra.md)
-    - [广告与图片定制](/ads.md)
-- **插件**
-    - [MissionTap](plugins/missiontap.md)
-    - [NyaaUtils](plugins/nyaautils.md)
-    - [HamsterEcoHelper](plugins/hamsterecohelper-guide.md)
-    - [Residence](plugins/residence-commands.md)
-    - [mcMMO](plugins/mcmmo-commands.md)
-    - [任务卷轴](plugins/cluescrolls.md)
-    - [精灵图鉴](plugins/sprite.md)
-    - [突破附魔](plugins/upgradeabletools.md)
-    - [Capcat 传送牌](plugins/capcat.md)
-- **玩家列表**
-    - [概述](players/index.md)
-    - [MikeW138](players/MikeW138.md)
-    - [TYC_Knight](players/Knight_T.md)
-    - [Hutu](players/Hutu.md)
-    - [qianbimo](players/Qianbimo.md)
-    - [DrLee_lihr](players/DrLee_lihr.md)
-- **关于**
-    - [生态系统](/ecosystem.md)
-    - [加入 Wiki 项目](/writers.md)
-    - [加入管理组](about/management.md)
-- [更新日志](https://github.com/sotapmc/SotapWiki/commits/master)
-- [反馈问题](https://g.sotap.org/t/development)
+- **关于"友好聊天"**
+  - [什么是 "友好聊天"](a.md)
+  - [为什么要"友好聊天"](b.md)
+- **如何做到"友好聊天"**
+  - [首先](c.md)
+  - [然后](d.md)
+  - [最后](e.md)
+- **集合**
+  - [集合](f.md)
+- 📫:2534160780@qq.com
